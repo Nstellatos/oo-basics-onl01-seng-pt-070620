@@ -8,8 +8,8 @@ class Shoe
     @brand
 end
 def cobble
-  puts "Your shoe is as good as new!"
   :condition
+  puts "Your shoe is as good as new!"
 end
 
 
